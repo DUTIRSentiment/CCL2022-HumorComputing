@@ -1,5 +1,8 @@
 # CCL2022-HumorComputing
 
+## New !
+已更新评测数据集，于dataset文件夹中。train与friends.csv为训练集，task1_dev，task2_dev为两个任务的验证集，task1_test，task2_test为两个任务的测试集。测试集于9月15日公布，第二阶段周期为两周。
+
 ## 说明
 本页面为CCL2022评测**第四届“小牛杯”幽默计算——聊天机器人幽默感挑战赛**的数据和成绩发布页面，评测详情请见[官网](http://cips-cl.org/static/CCL2022/cclEval/humorcomputation/index.html)。
 

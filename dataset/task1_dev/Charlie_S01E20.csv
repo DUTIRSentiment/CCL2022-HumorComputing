@@ -1,0 +1,352 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker
+1564,1,0,"Great news, you guys my friend's grandma died.",PJ
+1565,1,1,"That's nice, P.J.",Gabe
+1566,1,2,"You didn't hear what he said, did you, dad? That's nice, Gabe.",Gabe
+1567,1,3,"P.J., how is it good news that an old lady died? It's good news because now I can buy her car.",Gabe
+1568,1,4,"And they're only asking $1000, Which dad will help me out with.",PJ
+1569,1,5,"No, I won't.",Bob
+1570,1,6,"Amazing. How do you only hear what you want to hear? Hey,",PJ
+1571,1,7,I've been married to your mother for 20 years.,PJ
+1572,1,8,It's called survival.,Bob
+1573,1,9,"Come on, dad, I've saved up $700.",PJ
+1574,1,10,All yohave to do is give me The rest.,PJ
+1575,1,11,No no.,Bob
+1576,1,12,I'm your dad.,Bob
+1577,1,13,I'm not Santa claus and I'm not a bank.,Bob
+1578,1,14,"Well, you're built like both of them.",Gabe
+1579,1,15,"Dad, please please.",PJ
+1580,1,16,I really need my own car.,PJ
+1581,1,17,Driving girls around in the bug truck.,PJ
+1582,1,18,Just isn't working.,PJ
+1583,1,19,"Yeah, that's what's not working the bug truck.",Gabe
+1584,1,20,"Look, P.J., I'm sorry, but I'm not gonna give you the money.",Bob
+1585,1,21,So I guess you're out of luck on this one.,Bob
+1586,1,22,"Way to go, dad.",PJ
+1587,1,23,You just took an old lady's death.,PJ
+1588,1,24,And turned it into something sad.,PJ
+1589,2,0,"? Okay, Charlie.",Teddy
+1590,2,1,These are tools.,Teddy
+1591,2,2,This is a screwdriver.,Teddy
+1592,2,3,And this is a hammer.,Teddy
+1593,2,4,"And if you play your cards right, You'll never have to use either of them.",Teddy
+1594,2,5,Hi.,Teddy
+1595,2,6,Hi.,Spencer
+1596,2,7,I brought you something from work.,Spencer
+1597,2,8,It's grape to see you.,Spencer
+1598,2,9,It's great to see you too.,Teddy
+1599,2,10,"Oh no, 'grape to see you' is the name of the smoothie.",Spencer
+1600,2,11,"Wow, that is lame.",Teddy
+1601,2,12,I came up with it.,Spencer
+1602,2,13,And delicious.,Teddy
+1603,2,14,"Hey, Charlie.",Spencer
+1604,2,15,"Oh, so my mom's gonna be home from work.",Teddy
+1605,2,16,"In, like, half an hour, and then we can start studying.",Teddy
+1606,2,17,"Oh, we were gonna study? I didn't bring my books.",Spencer
+1607,2,18,Perfect.,Teddy
+1608,2,19,"What're you doing? Playing with tools, huh? Ow.",Spencer
+1609,2,20,"Charlie, what are you doing? That's Spencer, not Gabe.",Teddy
+1610,2,21,"Ouch, she really got me.",Spencer
+1611,2,22,"Oh, I'm so sorry.",Teddy
+1612,2,23,That's not like her.,Teddy
+1613,2,24,It's okay.,Spencer
+1614,2,25,She didn't mean it.,Spencer
+1615,2,26,"Right, Charlie? Who's your buddy? Who's your buddy? Ow! She bit me.",Spencer
+1616,2,27,Charlie.,Teddy
+1617,2,28,"Man, this really hurts.",Spencer
+1618,2,29,I'm so sorry.,Teddy
+1619,2,30,Maybe she thought you were yummy.,Teddy
+1620,2,31,Maybe you guys should feed her.,Spencer
+1621,2,32,We do feed her.,Teddy
+1622,2,33,"I mean, I don't, But I assume somebody does.",Teddy
+1623,2,34,I'd better go get this looked at.,Spencer
+1624,2,35,I'm so sorry.,Teddy
+1625,2,36,"Oh, maybe we could not study some other time.",Teddy
+1626,2,37,I'll call you.,Spencer
+1627,2,38,Okay.,Teddy
+1628,2,39,"Charlie, you chased my boyfriend away. Are you happy now?",Teddy
+1629,3,0,What are you doing? - Looking for loose change.,Gabe
+1630,3,1,Gotta scrounge up 300 bucks somehow.,PJ
+1631,3,2,How much do you have so far? A Penny.,Gabe
+1632,3,3,A checker.,PJ
+1633,3,4,Possibly a grape? No.,PJ
+1634,3,5,"What if I said I could take care of your little problem? You can get this taste out of my mouth? No, I'm talking about the 300 bucks.",Gabe
+1635,3,6,How do you have $300? Simple every day I have mom make me lunch.,Gabe
+1636,3,7,And ask dad for lunch money.,Gabe
+1637,3,8,It adds up quick.,Gabe
+1638,3,9,So you'll give me the money? I will loan you the money.,PJ
+1639,3,10,"Oh, you know I'm good for it. Hey, you know where I live, right?",PJ
+1640,3,11,"Yeah, gonna need you to sign this.",PJ
+1641,3,12,What is it? - Just a simple contract.,Gabe
+1642,3,13,That I downloaded from the Internet.,Gabe
+1643,3,14,Feel free to look it over.,Gabe
+1644,3,15,"Whoa, a lot of words here.",PJ
+1645,3,16,It's pretty standard.,Gabe
+1646,3,17,It just says you'll pay me back some money.,Gabe
+1647,3,18,"And some, you know, other stuff.",Gabe
+1648,3,19,Good enough for me.,PJ
+1649,3,20,Okay.,Gabe
+1650,3,21,You signed where it says 'date.,Gabe
+1651,3,22,"' And thinking that might happen, Here's another copy.",Gabe
+1652,4,0,And then Charlie bit him.,Teddy
+1653,4,1,"Why would she do that? Was he dressed like a giant cookie? Yes, Ivy.",Others
+1654,4,2,Spencer was dressed like a giant cookie.,Teddy
+1655,4,3,I'm serious.,Teddy
+1656,4,4,"Charlie's never done this before, like, with anyone.",Teddy
+1657,4,5,"Well, maybe Charlie senses there's something wrong with Spencer.",Others
+1658,4,6,You know what they say Dogs and kids are the best judges of character.,Others
+1659,4,7,"Yeah, what could possibly be wrong with Spencer? He's good looking.",Teddy
+1660,4,8,He's smart.,Teddy
+1661,4,9,He's Captain of the football team.,Teddy
+1662,4,10,And he likes me.,Teddy
+1663,4,11,But how much do you really know about him? Spencer could be hiding something.,Others
+1664,4,12,Everybody has a secret.,Others
+1665,4,13,Oh yeah? What's your secret?,Teddy
+1666,4,14,"I love country music. There, I said it.",Others
+1667,4,15,You do not.,Teddy
+1668,4,16,Oh? Check this out.,Others
+1669,4,17,Oh yeah.,Others
+1670,4,18,"Come on, do it with me.",Others
+1671,4,19,You know you want to.,Others
+1672,4,20,"Oh, what the heck.",Teddy
+1673,4,21,To the left.,Teddy
+1674,4,22,To the back.,Teddy
+1675,4,23,Kick it.,Teddy
+1676,5,0,"What do you think, mom? Wow, it's It's a car.",Others
+1677,5,1,Where did you get it? It used to belong to my friend's grandma.,PJ
+1678,5,2,"Oh, did she stop driving? No, breathing.",PJ
+1679,5,3,She was on her way to a buffet.,PJ
+1680,5,4,And took a detour to heaven.,PJ
+1681,5,5,Oh no.,Others
+1682,5,6,"Luckily she was at a stop sign, So there was no body damage to the car, I mean.",PJ
+1683,5,7,"Okay, so she passed away in here? Right where you're sitting.",Others
+1684,5,8,And I'm out.,Others
+1685,5,9,Ahh.,PJ
+1686,5,10,"Ah, the new car smell.",PJ
+1687,5,11,Or is it death? Take me to the arcade.,PJ
+1688,5,12,Step on it.,Gabe
+1689,5,13,Excuse me? Arcade place for fun and games.,PJ
+1690,5,14,Step on it to drive quickly.,Gabe
+1691,5,15,I'm not taking you anywhere.,PJ
+1692,5,16,"I guess somebody didn't read his contract, Which clearly States.",Gabe
+1693,5,17,That you have to give me a ride.,Gabe
+1694,5,18,Whenever and wherever I want.,Gabe
+1695,5,19,You tricked me.,PJ
+1696,5,20,"Here, I brought you a cute little cap to wear.",Gabe
+1697,5,21,While you're driving me around.,Gabe
+1698,6,0,"Hey, Spencer.",Teddy
+1699,6,1,What's up? I just wanted to see if we were still on for tonight.,Spencer
+1700,6,2,"My mom's working, so it's just gonna be you and me.",Teddy
+1701,6,3,That's great.,Spencer
+1702,6,4,And of course Charlie.,Teddy
+1703,6,5,"Oh, wait a minute.",Spencer
+1704,6,6,Tonight? I totally forgot.,Spencer
+1705,6,7,I have a thing.,Spencer
+1706,6,8,A thing? What kind of thing? It's a family thing.,Teddy
+1707,6,9,I can't get out of it.,Spencer
+1708,6,10,"Oh really? Are you sure? Honey, he's not coming.",Teddy
+1709,6,11,Now chop me up something and put it in the blender.,Others
+1710,7,0,"Hey, I thought you said you had a thing.",Teddy
+1711,7,1,"Yeah, but I think we need to talk.",Spencer
+1712,7,2,"Oh, okay.",Teddy
+1713,7,3,Come on in.,Teddy
+1714,7,4,I'd rather do this out here.,Spencer
+1715,7,5,Okay. What's going on?,Teddy
+1716,7,6,"Teddy, I don't think this is working out.",Spencer
+1717,7,7,What's not working out? Us.,Teddy
+1718,7,8,Wait a minute.,Teddy
+1719,7,9,Are you breaking up with me? Yes.,Teddy
+1720,7,10,Why? Because of her.,Spencer
+1721,7,11,"Spencer, wait! Spencer! Spencer! It was just a dream.",Teddy
+1722,8,0,"Oh, Teddy honey, I almost forgot.",Amy
+1723,8,1,I'm gonna need you to watch Charlie after school.,Amy
+1724,8,2,I have a dentist's appointment.,Amy
+1725,8,3,"No, I can't watch Charlie.",Teddy
+1726,8,4,I have plans.,Teddy
+1727,8,5,I was gonna go surprise Spencer at work.,Teddy
+1728,8,6,"Teddy, I've had a temporary crown.",Amy
+1729,8,7,Since I was pregnant.,Amy
+1730,8,8,With you.,Amy
+1731,8,9,"Mom, mom, mom, Charlie's been driving Spencer and I apart.",Teddy
+1732,8,10,"And if I don't go see him today, Our entire relationship might be at stake.",Teddy
+1733,8,11,Whoa.,Amy
+1734,8,12,"Okay, calm down here.",Amy
+1735,8,13,I was a teenager once.,Amy
+1736,8,14,I know what you're going through.,Amy
+1737,8,15,And I'm gonna say to you exactly what my mom said to me.,Amy
+1738,8,16,In times like this Get over it.,Amy
+1739,8,17,That's so unfair.,Teddy
+1740,8,18,"'deal with it,' she said to me.",Amy
+1741,8,19,You're ruining my life.,Teddy
+1742,8,20,I said to her.,Amy
+1743,8,21,"Now I could give you the rest of the conversation, But let's just cut to the chase you're babysitting.",Amy
+1744,8,22,Strangling me is not gonna help.,Amy
+1745,9,0,"Dad, dad, dad! Hey! Hey! Help me, dad! Whoa whoa whoa whoa whoa whoa.",Gabe
+1746,9,1,What is going on? - He says he owns my car now.,Bob
+1747,9,2,"You refused to take me where I wanted to go, Which means you're in violation of our contract.",Gabe
+1748,9,3,"What contract? - Here, read this for yourself.",Gabe
+1749,9,4,"Whoa, a lot of words here.",Bob
+1750,9,5,It clearly States.,Gabe
+1751,9,6,That if P.J.,Gabe
+1752,9,7,"Doesn't drive me wherever I want, The old lady's car is mine.",Gabe
+1753,9,8,"P.J., you did sign it.",Bob
+1754,9,9,"Dad, it isn't fair.",PJ
+1755,9,10,He tricked me.,PJ
+1756,9,11,"Okay okay, all right, all right, here we go.",Bob
+1757,9,12,"The hard part about being a dad Making the tough decisions, right? So my decision Uh, check page five, third paragraph.",Bob
+1758,9,13,R= arbitration by Bob Duncan.,Bob
+1759,9,14,' Huh.,Bob
+1760,9,15,"Sorry, P.J., my hands are tied.",Bob
+1761,9,16,Can I at least hurt him a little? No.,PJ
+1762,10,0,Giddy-up.,Others
+1763,10,1,"Boy, you've really embraced.",Teddy
+1764,10,2,The whole country Western thing.,Others
+1765,10,3,"I've never felt so alive, y'all.",Others
+1766,10,4,"I'm happy as a Turkey the day after Thanksgiving, 'cause it didn't get k*ll and eaten Y'all.",Others
+1767,10,5,"Yeah, real country people.",Teddy
+1768,10,6,Don't say 'y'all' after every sentence.,Teddy
+1769,10,7,I think you let them say what they want.,Others
+1770,10,8,When they're babysitting your sister.,Others
+1771,10,9,Right.,Teddy
+1772,10,10,So Charlie's upstairs taking a nap.,Teddy
+1773,10,11,"And when she wakes up, she might be a little hungry.",Teddy
+1774,10,12,"Don't worry, partner.",Others
+1775,10,13,I'll rustle her up some grub.,Others
+1776,10,14,"Okay, well, I'd better hop in the saddle and mosey on down to the mall.",Teddy
+1777,10,15,Before Spencer's shift ends.,Teddy
+1778,10,16,"Yeah, it's only cool when I do it.",Others
+1779,11,0,"What's wrong with you? You want the car? Here, take it.",Gabe
+1780,11,1,I hope I never see it again.,PJ
+1781,11,2,"What are you talking about? - Okay, she's in it.",Gabe
+1782,11,3,Who is? - The old lady.,PJ
+1783,11,4,She did not go to heaven.,PJ
+1784,11,5,She just went to the back seat.,PJ
+1785,11,6,"Really? You're saying the old lady's ghost is haunting your car? No, she's haunting your car.",Gabe
+1786,11,7,What happened?,PJ
+1787,11,8,I was just driving. And the radio goes on all by itself Classical music.,PJ
+1788,11,9,I don't listen to that.,PJ
+1789,11,10,Then I smell perfume Old lady perfume.,PJ
+1790,11,11,I don't wear that.,PJ
+1791,11,12,"You're crazy. Dad, will you please tell him there's no such thing as ghosts?",Gabe
+1792,11,13,"Dad, will you please tell him there's no such thing as ghosts? I wish I could, Gabe.",Gabe
+1793,11,14,I wish I could.,Bob
+1794,11,15,"You believe in ghosts too? Well, I didn't used to.",Bob
+1795,11,16,"I'm telling you, It seemed like a routine extermination A black widow nest up in the attic.",Bob
+1796,11,17,But the widow.,Bob
+1797,11,18,Turned out to be Mrs.,Bob
+1798,11,19,Fontana The late Mrs.,Bob
+1799,11,20,Fontana.,Bob
+1800,11,21,You guys are just trying to scare me.,Gabe
+1801,11,22,"I wish we were, Gabe.",Bob
+1802,11,23,I wish we were.,Bob
+1803,11,24,"Why are you saying everything twice? I don't know, Gabe.",Gabe
+1804,11,25,I don't know.,Bob
+1805,11,26,"All right, enough.",Gabe
+1806,11,27,I don't believe in ghosts.,Gabe
+1807,11,28,That car is not haunted.,Gabe
+1808,11,29,And thank you.,Gabe
+1809,11,30,Don't say you weren't warned.,PJ
+1810,11,31,"And remember, if you go in that car, Beware of classical music, smelly perfume And m*rder.",PJ
+1811,11,32,"Dad, nobody was m*rder in that car.",Gabe
+1812,11,33,Not yet.,Bob
+1813,12,0,Don't move.,Teddy
+1814,12,1,I'm in a relationship crisis.,Teddy
+1815,12,2,This is your lucky day.,Others
+1816,12,3,I rarely move.,Others
+1817,12,4,Spencer.,Teddy
+1818,12,5,Teddy.,Spencer
+1819,12,6,What's going on? Are you cheating on me? What are you talking about? I saw you with your arm around that girl.,Teddy
+1820,12,7,"You're cheating on me, aren't you? Attention, everybody.",Teddy
+1821,12,8,Juice boy here is a cheater.,Teddy
+1822,12,9,And he never gives me a full serving either.,Others
+1823,12,10,"Teddy, you've got it all wrong.",Spencer
+1824,12,11,"Oh, okay, so you just put your arm around.",Teddy
+1825,12,12,"All your customers, is that it? No, I put my arm around my cousin.",Teddy
+1826,12,13,Your what? - My cousin Skyler.,Spencer
+1827,12,14,Oh.,Teddy
+1828,12,15,Your cousin Skyler.,Teddy
+1829,12,16,She seems nice.,Teddy
+1830,12,17,"It's okay, everybody.",Teddy
+1831,12,18,She's just his cousin.,Teddy
+1832,12,19,So return to your juices.,Teddy
+1833,12,20,"Look, my break's over.",Spencer
+1834,12,21,Maybe you should go.,Spencer
+1835,12,22,"Yeah, sure.",Teddy
+1836,12,23,I'm sorry.,Teddy
+1837,12,24,It's okay.,Spencer
+1838,12,25,I'm sorry.,Teddy
+1839,12,26,I'm sorry too.,Others
+1840,12,27,It's the other kid who never fills it up.,Others
+1841,13,0,My own car.,Gabe
+1842,13,1,"The open road, Freedom, wind in my hair, And it's all just six years away.",Gabe
+1843,13,2,Perfume? No way.,Gabe
+1844,13,3,"Very funny, P.J.",Gabe
+1845,13,4,P.J.? P.J.? Get out of my car.,Gabe
+1846,13,5,"Get out of my car, Little boy.",Others
+1847,13,6,Who said that? Or you can stay with me Forever and ever and ever! Mommy! Mommy! Whew.,Gabe
+1848,13,7,That went well.,Amy
+1849,13,8,"Here, take your stupid car! Hi.",Gabe
+1850,14,0,"You're Skyler, right? I'm Teddy.",Teddy
+1851,14,1,"Oh, right.",Skyler
+1852,14,2,I saw your picture in Spencer's wallet.,Teddy
+1853,14,3,Spencer keeps my picture in his wallet? That's sweet.,Teddy
+1854,14,4,"Of course I put it in there, But it's so sweet he didn't throw it out.",Teddy
+1855,14,5,What have you got there? - Pie on a stick.,Skyler
+1856,14,6,Where did you get it? Pie on a stick.,Skyler
+1857,14,7,It's just my way to say 'I'm sorry' to Spencer.,Teddy
+1858,14,8,Because I kind of freaked out earlier.,Teddy
+1859,14,9,I didn't know you two were cousins.,Teddy
+1860,14,10,I thought you two were cousins.,Skyler
+1861,14,0,"No, Spencer's my boyfriend.",Teddy
+1862,14,0,"No, Spencer's my boyfriend.",Skyler
+1863,14,1,Uh-oh.,Spencer
+1864,14,2,"So you two have met, huh? Yeah, turns out we're cousins.",Spencer
+1865,14,3,"Anything you want to say, Spencer? A free sample? Sure, I'd love one.",Skyler
+1866,14,4,"Mm, delicious.",Skyler
+1867,14,5,You should try some.,Skyler
+1868,14,6,Don't forget dessert.,Teddy
+1869,14,7,"Hey, wait.",Spencer
+1870,14,8,How could you? - I'm sorry.,Teddy
+1871,14,9,I can exp - Just don't.,Teddy
+1872,15,0,"Teddy honey, are you okay? No.",Amy
+1873,15,1,Scoot over.,Amy
+1874,15,2,"Look, I know this probably won't make you feel better, But I know what you're going through.",Amy
+1875,15,3,So you had your heart broken too? I did.,Teddy
+1876,15,4,By Warren snodgrass.,Amy
+1877,15,5,"Warren snodgrass? Yeah, he was a lot cuter than he sounds.",Teddy
+1878,15,6,"Anyway, I was madly in love with him.",Amy
+1879,15,7,And then one day out of the blue.,Amy
+1880,15,8,He dumped me for Kim Brooks.,Amy
+1881,15,9,I was devastated.,Amy
+1882,15,10,So how did you deal with it? I didn't.,Teddy
+1883,15,11,"I was a mess, thought my life was over.",Amy
+1884,15,12,But then I started dating.,Amy
+1885,15,13,"This tall, blond goof ball named Bob.",Amy
+1886,15,14,"Dad? - No, Bob diddlebock.",Amy
+1887,15,15,But he introduced me to dad.,Amy
+1888,15,16,"Look, honey, the point is.",Amy
+1889,15,17,"If I hadn't had my heart broken, I never would have met your father.",Amy
+1890,15,18,Then I would have never been born.,Teddy
+1891,15,19,And I wouldn't be so sad right now.,Teddy
+1892,15,20,"Oh, no no, honey.",Amy
+1893,15,21,"Oh, it's terrible, I know.",Amy
+1894,15,22,It stinks.,Amy
+1895,15,23,"But you know what, babe? It will get better.",Amy
+1896,15,24,I promise.,Amy
+1897,15,25,"Hi, Charlie.",Amy
+1898,15,26,I'm here with your sister.,Amy
+1899,15,27,Who's having her first broken heart.,Amy
+1900,15,28,"My first? There's gonna be more? No, honey, this is it.",Teddy
+1901,15,29,"Anyway, by the time you're watching this, You might be experiencing your first heartbreak.",Amy
+1902,15,30,"So just remember, it always gets better.",Amy
+1903,15,31,And I just wanted to say.,Teddy
+1904,15,32,You were right about Spencer.,Teddy
+1905,15,33,It's too bad you won't have a little sister.,Teddy
+1906,15,34,"Looking out for you when you're my age, Although we never know.",Teddy
+1907,15,35,"Oh, we know.",Amy
+1908,15,36,"Good luck, Charlie.",Teddy
+1909,16,0,What the? I'm sorry.,Spencer
+1910,16,1,Leave melone.,Spencer
+1911,16,2,No.,Spencer
+1912,16,3,No-o-o! You such a good sister.,Teddy
+1913,16,4,Come here.,Teddy
+1914,16,5,Come here,Teddy
